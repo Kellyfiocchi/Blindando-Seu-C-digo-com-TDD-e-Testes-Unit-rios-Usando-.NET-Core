@@ -1,0 +1,14 @@
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Projeto\TestesUnitarios\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Projeto\TestesUnitarios\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Projeto\TestesUnitarios\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Projeto\TestesUnitarios\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Projeto\TestesUnitarios\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Projeto\TestesUnitarios\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
